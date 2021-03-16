@@ -1,0 +1,8 @@
+Jupyter notebook provided in COMP425(Computer Vision), to fill out for assignment 2. 
+
+Skeleton code opened in Google Colab, and saved directly to Github. Therefore, notebook can
+be opened directly from public repository, user does not have to mind setup.
+
+Colab provides access to Google hardware, GPU's in this case, via cloud. These additional
+resources vastly speed up operations on large datasets, as is the case with machine learning 
+algorithms
